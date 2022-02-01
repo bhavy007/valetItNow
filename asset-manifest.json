@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/valetItNow/static/css/main.610563f9.chunk.css",
+    "main.js": "/valetItNow/static/js/main.cdd69c6a.chunk.js",
+    "main.js.map": "/valetItNow/static/js/main.cdd69c6a.chunk.js.map",
+    "runtime-main.js": "/valetItNow/static/js/runtime-main.f4de31d2.js",
+    "runtime-main.js.map": "/valetItNow/static/js/runtime-main.f4de31d2.js.map",
+    "static/js/2.f8f3998e.chunk.js": "/valetItNow/static/js/2.f8f3998e.chunk.js",
+    "static/js/2.f8f3998e.chunk.js.map": "/valetItNow/static/js/2.f8f3998e.chunk.js.map",
+    "index.html": "/valetItNow/index.html",
+    "static/css/main.610563f9.chunk.css.map": "/valetItNow/static/css/main.610563f9.chunk.css.map",
+    "static/js/2.f8f3998e.chunk.js.LICENSE.txt": "/valetItNow/static/js/2.f8f3998e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4de31d2.js",
+    "static/js/2.f8f3998e.chunk.js",
+    "static/css/main.610563f9.chunk.css",
+    "static/js/main.cdd69c6a.chunk.js"
+  ]
+}
