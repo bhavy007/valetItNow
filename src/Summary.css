@@ -1,0 +1,50 @@
+.billbox {
+  border: 1px solid black;
+  height: 100%;
+  width: 30%;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  min-width: 270px;
+}
+
+.headerBox {
+  padding: 2%;
+}
+
+.smallHeader {
+  font-family: "Pacifico", cursive;
+  font-size: 1.55rem;
+}
+
+.bigHeader {
+  font-size: 1.75rem;
+  font-weight: 800;
+}
+
+.driverIcon {
+  width: 20%;
+  margin: auto;
+}
+
+.ContinueButton2 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+@media only screen and (max-width: 1100px) {
+  .billbox {
+    width: 75%;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .billbox {
+    width: 85%;
+    padding-bottom: 10%;
+  }
+}
+
+.makeBold {
+  font-weight: 800;
+}

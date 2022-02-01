@@ -1,0 +1,30 @@
+.timePage {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.tA {
+  height: 90%;
+  position: relative;
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
+.tL {
+  height: 90%;
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
+.ContinueButton {
+  padding-top: 1%;
+}
+
+.footerInfo {
+  padding-top: 5%;
+  font-size: 0.9rem;
+}

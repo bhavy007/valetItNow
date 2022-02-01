@@ -1,0 +1,45 @@
+.mainVehicle {
+  height: 100vh;
+}
+
+.vehicleChoose {
+  padding-bottom: 4%;
+  font-size: 2.5rem;
+}
+
+.vehicleImage {
+  width: 15%;
+  margin: auto;
+  display: block;
+  padding: 2%;
+}
+
+.vehicleImage:hover {
+  border: 0.5px solid #000;
+  border-radius: 25px;
+  color: #000;
+  background: #ffff33;
+}
+
+.hvr-grow {
+  vertical-align: middle;
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
+}
+
+.hvr-grow:hover {
+  transform: scale(1.1);
+}
+
+@media only screen and (max-width: 1100px) {
+  .vehicleImage {
+    width: 50%;
+  }
+  .vehicleChoose {
+    font-size: 2.5rem;
+  }
+}
